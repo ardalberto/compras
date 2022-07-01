@@ -1,4 +1,4 @@
-# just-gluber
+# Vue3 + Vuetify + Vue Router + Pinia boilerplate with typescript support.
 
 ## Project setup
 ```
