@@ -1,4 +1,6 @@
-# just-gluber
+# Vue3 + Vuetify + Vue Router + Pinia boilerplate with typescript support.
+## In other branches...
+- [Electron-builder](https://github.com/XShor/vue3-vuetify-vuerouter-pinia-ts/tree/boilerplate-with-electron-builder)
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
